@@ -4481,6 +4481,10 @@ input[type=button].btn-block {
     margin-bottom: 0;
     margin-left: 15px;
   }
+
+  .portfolio-box {
+    text-align: center;
+  }
 }
 
 .card-group > .card {
